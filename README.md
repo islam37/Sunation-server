@@ -49,6 +49,10 @@
 For a deeper dive into the project architecture, check out:  
 📄 **[Project Explanation & ER Diagram (PDF)](https://drive.google.com/drive/folders/152CBpImYFzG8v9kQ5IA8VBzU32pjvXp4)**  
 
+
+-Home page
+![image.alt](https://github.com/islam37/Sunation-server/blob/b1e6880f16c5b8d48ffcd5ea2ecffeb9ad1788e1/Screenshot%20(708).png)
+
 ---
 
 ## 👥 **Development Team**  
